@@ -1,0 +1,15 @@
+/*styles*/
+
+@/*stlying your webpage to be to look , attractive and presentable*/
+body{
+  font-family: : monospace;
+}
+
+main{
+	margin : 20px;
+}
+img{
+width : 40%;
+height: 40%;
+border: 10px solid black;
+}
